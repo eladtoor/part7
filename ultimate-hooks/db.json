@@ -1,0 +1,90 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "content": "custom hooks are awesome"
+    },
+    {
+      "id": 2,
+      "content": "best feature ever <3"
+    },
+    {
+      "content": "test",
+      "id": 3
+    },
+    {
+      "content": "dsadas",
+      "id": 4
+    },
+    {
+      "content": "era",
+      "id": 5
+    },
+    {
+      "content": "dsa",
+      "id": 6
+    },
+    {
+      "content": "asd",
+      "id": 7
+    },
+    {
+      "content": "vnbnv",
+      "id": 8
+    },
+    {
+      "content": "jkhjhk",
+      "id": 9
+    },
+    {
+      "content": "fghfgh",
+      "id": 10
+    },
+    {
+      "content": "asd",
+      "id": 11
+    }
+  ],
+  "persons": [
+    {
+      "id": 1,
+      "name": "Matti Luukkainen",
+      "number": "040-12344565"
+    },
+    {
+      "id": 2,
+      "name": "Tarja Halonen",
+      "number": "040-2223334"
+    },
+    {
+      "name": "Elad",
+      "number": "123456",
+      "id": 3
+    },
+    {
+      "name": "bnbn",
+      "number": "q3",
+      "id": 4
+    },
+    {
+      "name": "erasd",
+      "number": "123",
+      "id": 5
+    },
+    {
+      "name": "fghhgf",
+      "number": "dfgfdg",
+      "id": 6
+    },
+    {
+      "name": "asdasd",
+      "number": "123123",
+      "id": 7
+    },
+    {
+      "name": "asd",
+      "number": "123",
+      "id": 8
+    }
+  ]
+}
